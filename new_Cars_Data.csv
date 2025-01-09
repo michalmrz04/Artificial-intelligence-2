@@ -96,7 +96,6 @@ MERCEDES,BENZ GLA 45,I4,"1,991 cc",382 hp,250 km/h,4.3 sec,"$48,000 ",Petrol,5,5
 MERCEDES,BENZ GLC 350 ,I4,"1,991 cc",255 hp,250 km/h,6.1 sec,"$46,000 ",Petrol,5,500 Nm
 MERCEDES,BENZ GLE 53,V6,"2,996 cc",429 hp,250 km/h,5.2 sec,"$71,000 ",Petrol,5,620 Nm
 MERCEDES,BENZ S-CLASS S 350,I4,"1,991 cc",255 hp,250 km/h,6.5 sec,"$90,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ EQS 53,ELECTRIC MOTOR,N/A,751 hp,250 km/h,3.4 sec,"$102,000 ",Electric,5,950 Nm
 MERCEDES,BENZ MAYBACH S 680,V12,"5,980 cc",630 hp,250 km/h,4.7 sec,"$200,000 ",Petrol,5,1000 Nm
 BMW,M5 CS,V8,"4,395 cc",627 hp,305 km/h,3.0 sec,"$142,000 ",Petrol,5,750 Nm
 BMW,M4 GTS,I6,"2,993 cc",493 hp,305 km/h,3.7 sec,"$133,000 ",Petrol,4,600 Nm
@@ -240,7 +239,6 @@ TOYOTA,HILUX GR SPORT,"2.8L,TURBO,DIESEL","2,755 cc",224 hp,170 km/h,10.0 sec,"$
 TOYOTA,ALPHARD EXECUTIVE LOUNGE,"2.5L,INLINE-4,HYBRID,OR 3.5L,V6","HYBRID(2,494 cc),V6(3,456 cc)",296 hp,180 km/h,8.5 sec,"$60,000 ",Petrol,7,400 Nm
 TOYOTA,FORTUNER GR SPORT,"2.8L,TURBO,DIESEL","2,755 cc",204 hp,175 km/h,10.5 sec,"$55,000 ",Diesel/Petrol,7,500 Nm
 TOYOTA,INNOVA HYCROSS,2.0L HYBRID,"1,987 cc",184 hp,165 km/h,9.5 sec,"$40,000 ",Hybrid,7,250 Nm
-TOYOTA,COASTER,"4.0L,DIESEL","4,009 cc",134 hp,120 km/h,N/A,"$70,000 ",Diesel,20,500 Nm
 TOYOTA,URBAN CRUISER TAISOR,"1.5L,HYBRID","1,490 cc",114 hp,170 km/h,11 sec,"$25,000 ",Petrol,5,130 Nm
 TOYOTA,AYGO X,"1.0L,INLINE-3",998 cc,71 hp,160 km/h,14.8 sec,"$18,000 ",Petrol,4,93 Nm
 TOYOTA,HILUX REVO ROCCO,"2.8L,TURBO,DIESEL","2,755 cc",204 hp ,175 km/h,10.0 sec,"$50,000 ",Diesel,5,500 Nm
@@ -254,7 +252,6 @@ HYUNDAI,IONIQ 5,ELECTRIC MOTOR,72.6 KWH,225 hp,185 km/h,7.4 sec,"$41,000 ",Elect
 HYUNDAI,Santa Cruz,2.5L Turbocharged Inline-4,"2,500 cc",281 hp,215 km/h,6.5 sec,"$40,799 ",Petrol,5,400 Nm
 HYUNDAI,Kona,1.6L PETROL ,"1,591 cc",147 hp,185 km/h,10.5 sec,"$20,500 ",Petrol/EV,5,400 Nm
 HYUNDAI,Elantra,2.0L Inline-4,"2,000 cc",147 hp,210 km/h,8.3 sec,"$19,950 ",Petrol/Hybrid,5,250 Nm
-Nissan,Urvan,2.5L Turbo Diese,,2488 cc,140 km/h,14.0 sec,"$28,000 ",Diesel,15,356 Nm
 HYUNDAI,IONIQ 6,Electric Motor,53.6 kwh(Standard Range) / 77.4 kwh(Long Range),320 hp,185 km/h,5.2 sec,"$41,450 ",Electric,5,350 Nm
 HYUNDAI,Tucson,2.5L Inline-4,"2,500 cc",187 hp,180 km/h,6.1 sec,"$30,500 ",Petrol/Hybrid,5,400 Nm
 HYUNDAI,Palisade,3.8L V6,"3,800 cc",291 hp,240 km/h,6.3 sec,"$52,000 ",Petrol,7,355 Nm
@@ -1025,12 +1022,12 @@ Ford,Explorer,2.3L EcoBoost / 3.0L V6,"2,300 - 3,000 cc",300 - 400 hp,200 km/h,6
 Ford,Expedition,3.5L EcoBoost / 5.4L V8,"3,500 - 5,400 cc",375 - 400 hp,180 km/h,6.5 sec,"$50,000 - $75,000",Petrol,8,650 - 800 Nm
 Ford,Bronco,2.3L EcoBoost / 2.7L V6,"2,300 - 2,700 cc",275 - 310 hp,200 km/h,7.5 sec,"$30,000 - $55,000",Petrol,4,400 - 600 Nm
 Ford,Bronco Sport,1.5L EcoBoost / 2.0L EcoBoost,"1,500 - 2,000 cc",181 - 250 hp,185 km/h,7.0 sec,"$26,000 - $38,000",Petrol,5,250 - 375 Nm
-Ford,F-150,3.3L V6 / 5.0L V8 / 3.5L EcoBoost,"3,300 - 5,000 cc",290 - 450 hp,200 km/h,5.0 - 6.5 sec,"$35,000 - $75,000",Petrol/Diesel,5,400 - 700 Nm
+Ford,F-150,3.3L V6 / 5.0L V8 / 3.5L EcoBoost,"3,300 - 5,000 cc",290 - 450 hp,200 km/h,6.0 sec,"$35,000 - $75,000",Petrol/Diesel,5,400 - 700 Nm
 Ford,F-250 Super Duty,6.2L V8 / 7.3L V8 / 6.7L Turbo-Diesel,"6,200 - 7,300 cc",385 - 475 hp,180 km/h,6.5 - 7.0 sec,"$40,000 - $70,000",Petrol/Diesel,5,"700 - 1,050 Nm"
-Ford,F-350 Super Duty,6.7L Turbo-Diesel / 7.3L V8,"6,700 - 7,300 cc",450 - 475 hp,180 km/h,7.0 - 8.0 sec,"$45,000 - $75,000",Diesel,5,"1,050 - 1,200 Nm"
-Ford,Maverick,2.5L Hybrid / 2.0L EcoBoost,"2,500 - 2,000 cc",191 - 250 hp,180 km/h,6.5 - 8.0 sec,"$22,000 - $30,000",Hybrid/Petrol,5,250 - 380 Nm
-Ford,Ranger,2.3L Turbo Inline-4 / 2.7L V6,"2,300 - 2,700 cc",270 - 325 hp,180 km/h,6.0 - 7.0 sec,"$25,000 - $45,000",Petrol/Diesel,5,400 - 540 Nm
-Ford,Mustang Mach-E,Electric Motor,Battery (68-98 kWh),290-480 hp,180 km/h,3.5 sec (GT Model),"$43,000 - $61,000",Electric,5,430 Nm (GT Model)
+Ford,F-350 Super Duty,6.7L Turbo-Diesel / 7.3L V8,"6,700 - 7,300 cc",450 - 475 hp,180 km/h,7.5 sec,"$45,000 - $75,000",Diesel,5,"1,050 - 1,200 Nm"
+Ford,Maverick,2.5L Hybrid / 2.0L EcoBoost,"2,500 - 2,000 cc",191 - 250 hp,180 km/h,7.0sec,"$22,000 - $30,000",Hybrid/Petrol,5,250 - 380 Nm
+Ford,Ranger,2.3L Turbo Inline-4 / 2.7L V6,"2,300 - 2,700 cc",270 - 325 hp,180 km/h,6.0 sec,"$25,000 - $45,000",Petrol/Diesel,5,400 - 540 Nm
+Ford,Mustang Mach-E,Electric Motor,Battery (68-98 kWh),290-480 hp,180 km/h,3.5 sec,"$43,000 - $61,000",Electric,5,430 Nm (GT Model)
 Ford,F-150 Lightning,Electric Motor,Battery (98 kWh),452 hp,180 km/h,4.5 sec,"$40,000 - $90,000",Electric,5,1051 Nm
 Ford,Escape Hybrid,2.5L Inline-4 + Electric,"2,500 cc",200 hp,180 km/h,7.7 sec,"$28,000 - $38,000",Hybrid,5,210 Nm (Electric)
 Ford,Explorer Hybrid,3.3L V6 + Electric,"3,300 cc",318 hp,180 km/h,7.5 sec,"$50,000 - $55,000",Hybrid,7,500 Nm
@@ -1095,7 +1092,6 @@ Mitsubishi,Montero Sport,2.4L Diesel Turbo,"2,400 cc",181 hp,180 km/h,11.0 sec,"
 Mitsubishi,Attrage,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.5 sec,"$15,000 - $17,000",Petrol,5,100 Nm
 Mitsubishi,RVR SE,2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.5 sec,"$23,000 - $25,000",Petrol,5,197 Nm
 Mitsubishi,Delica Van,2.0L Diesel / 2.2L Diesel,"2,000 - 2,200 cc",145 hp,175 km/h,11.5 sec,"$30,000 - $35,000",Diesel,7,360 Nm
-Mitsubishi,Canter (Truck),3.0L Diesel,"3,000 cc",150 hp,120 km/h,N/A,"$35,000 - $45,000",Diesel,2,370 Nm
 Mitsubishi,Lancer GLX,1.6L MIVEC,"1,600 cc",115 hp,190 km/h,11.5 sec,"$17,000 - $20,000",Petrol,5,154 Nm
 Mitsubishi,Pajero GLS,3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$45,000 - $50,000",Diesel,7,441 Nm
 Mitsubishi,Xpander Cross,1.5L MIVEC,"1,500 cc",105 hp,170 km/h,12.0 sec,"$20,000 - $25,000",Petrol,7,141 Nm
@@ -1106,8 +1102,6 @@ Mitsubishi,Triton GLX-R,2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$
 Mitsubishi,ASX Dynamic,2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.0 sec,"$25,000 - $28,000",Petrol,5,197 Nm
 Mitsubishi,Mirage ES,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.5 sec,"$15,000 - $17,000",Petrol,5,100 Nm
 Mitsubishi,Outlander LE,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$30,000 - $35,000",Petrol,7,245 Nm
-Mitsubishi,Fuso Fighter (Truck),7.5L Diesel,"7,500 cc",240 hp,120 km/h,N/A,"$70,000 - $90,000",Diesel,2,686 Nm
-Mitsubishi,Fuso Canter Eco Hybrid,3.0L Diesel Hybrid,"3,000 cc",150 hp,120 km/h,N/A,"$50,000 - $60,000",Diesel Hybrid,2,370 Nm
 Mitsubishi,Space Runner,1.8L MIVEC,"1,800 cc",140 hp,185 km/h,10.5 sec,"$20,000 - $23,000",Petrol,5,170 Nm
 Mitsubishi,Toppo BJ,0.7L 3-Cylinder,660 cc,52 hp,130 km/h,15.0 sec,"$10,000 - $12,000",Petrol,4,60 Nm
 Mitsubishi,Chariot,2.0L MIVEC,"2,000 cc",140 hp,185 km/h,10.5 sec,"$20,000 - $23,000",Petrol,7,170 Nm
@@ -1125,7 +1119,6 @@ Mitsubishi,Endeavor,3.8L V6,"3,800 cc",225 hp,190 km/h,9.5 sec,"$28,000 - $35,00
 Mitsubishi,Grand Lancer,1.8L MIVEC,"1,800 cc",138 hp,190 km/h,11.5 sec,"$20,000 - $25,000",Petrol,5,173 Nm
 Mitsubishi,Sigma,3.0L V6,"3,000 cc",210 hp,220 km/h,8.5 sec,"$35,000 - $40,000",Petrol,5,270 Nm
 Mitsubishi,Town Box,0.7L 3-Cylinder,660 cc,48 hp,120 km/h,16.0 sec,"$10,000 - $12,000",Petrol,4,60 Nm
-Mitsubishi,Minicab MiEV,Electric Motor,16 kWh battery,64 hp,100 km/h,N/A,"$18,000 - $20,000",Electric,2,196 Nm
 Mazda,Mazda3,2.0L SkyActiv-G,"2,000 cc",155 hp,200 km/h,8.9 sec,"$22,000 - $26,000",Petrol,5,213 Nm
 Mazda,Mazda3 Hatchback,2.5L SkyActiv-G,"2,500 cc",186 hp,210 km/h,8.3 sec,"$24,000 - $28,000",Petrol,5,252 Nm
 Mazda,Mazda6,2.5L Turbocharged,"2,500 cc",250 hp,240 km/h,6.4 sec,"$27,000 - $35,000",Petrol,5,420 Nm
@@ -1146,7 +1139,6 @@ Mazda,B-Series Pickup,2.5L Diesel,"2,500 cc",143 hp,170 km/h,11.5 sec,"$20,000 -
 Mazda,BT-50,3.2L Turbo Diesel,"3,200 cc",200 hp,180 km/h,10.0 sec,"$27,000 - $35,000",Diesel,5,470 Nm
 Mazda,RX-7,1.3L Rotary Twin-Turbo,"1,300 cc",276 hp,250 km/h,5.5 sec,"$30,000 - $50,000",Petrol,4,314 Nm
 Mazda,RX-3,1.2L Rotary,"1,200 cc",110 hp,180 km/h,8.9 sec,"$15,000 - $20,000",Petrol,4,145 Nm
-Mazda,RX-Vision Concept,Rotary SkyActiv-R,N/A,400 hp (est.),300 km/h (est.),N/A,N/A (Concept Only),Petrol (Hybrid),2,N/A
 Mazda,323F,1.6L Inline-4,"1,600 cc",105 hp,180 km/h,10.5 sec,"$14,000 - $18,000",Petrol,5,145 Nm
 Mazda,Familia Sedan,1.5L Inline-4,"1,500 cc",100 hp,175 km/h,11.0 sec,"$12,000 - $16,000",Petrol,5,135 Nm
 Mazda,Premacy,2.0L Inline-4,"2,000 cc",138 hp,190 km/h,9.8 sec,"$18,000 - $24,000",Petrol,7,180 Nm
